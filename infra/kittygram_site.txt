@@ -1,5 +1,5 @@
  IP: 51.250.29.90;
- name_taski: https://romansite.ddns.net/;
- name_kittygram: https://kittygramforyou.ddns.net/;
+ name_taski: https://romansite.ddns.net/ ;
+ name_kittygram: https://kittygramforyou.ddns.net/ ;
  login: yc-user;
  password: JlOv3bJ-5z;
